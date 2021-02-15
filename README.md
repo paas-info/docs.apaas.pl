@@ -1,4 +1,3 @@
-## 1
 ![aPaaS](https://logo.apaas.pl/1/cover.png)
 
 # [Dokumentacja  aPaaS](https://docs.apaas.pl)
