@@ -1,3 +1,6 @@
+## 1
+![aPaaS](https://logo.apaas.pl/1/cover.png)
+
 # [Dokumentacja  aPaaS](https://docs.apaas.pl)
 
 # Application Platform as a Service (aPaas)
