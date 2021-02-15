@@ -1,8 +1,9 @@
-# docs
-Dokumentacja  aPaaS
+# [Dokumentacja  aPaaS](https://docs.apaas.pl)
 
+# Application Platform as a Service (aPaas)
 
-Application Platform as a Service (aPaas)
+aPaaS allows for rapid application development and delivery. This form has high productivity and high control. The coding process for platforms as a service can slow down delivery, but aPaaS brings automation for the application lifecycle. aPaaS offers a faster way to build apps.
+
 
 The application platform sits between software as a service (SaaS) and infrastructure as a service (IaaS).
 aPaaS, like IaaS, includes infrastructure – servers, networking, and data center storage – but also operating systems, analytics, database management, and development tools.
